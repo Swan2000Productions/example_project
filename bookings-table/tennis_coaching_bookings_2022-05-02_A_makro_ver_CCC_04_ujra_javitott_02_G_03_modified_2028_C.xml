@@ -1,0 +1,1710 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<?xml-stylesheet type="text/xsl" href="teniszpalya_07_B_tarsitas_01_B_ujra_mentett_02.xsl"?>
+<page/>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Robi</Author>
+  <LastAuthor>Robi</LastAuthor>
+  <Created>2021-11-01T15:29:02Z</Created>
+  <LastSaved>2022-05-04T22:24:38Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7755</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ActiveSheet>3</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <NumberFormat ss:Format="yyyy\-mm\-dd;@"/>
+  </Style>
+  <Style ss:ID="s80">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s81">
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s82">
+   <NumberFormat ss:Format="#,##0;[Red]#,##0"/>
+  </Style>
+  <Style ss:ID="s83">
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s86">
+   <NumberFormat ss:Format="#,##0_ ;\-#,##0\ "/>
+  </Style>
+  <Style ss:ID="s87">
+   <NumberFormat ss:Format="[$-F400]h:mm:ss\ AM/PM"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s89">
+   <Interior/>
+   <NumberFormat ss:Format="#,##0.00_ ;\-#,##0.00\ "/>
+  </Style>
+  <Style ss:ID="s90">
+   <Interior/>
+   <NumberFormat ss:Format="0.00_ ;\-0.00\ "/>
+  </Style>
+  <Style ss:ID="s91">
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s93">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.00_ ;\-0.00\ "/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="#,##0.00_ ;\-#,##0.00\ "/>
+  </Style>
+  <Style ss:ID="s95">
+   <NumberFormat ss:Format="General Date"/>
+  </Style>
+  <Style ss:ID="s96">
+   <NumberFormat ss:Format="[$-809]dd\ mmmm\ yyyy;@"/>
+  </Style>
+  <Style ss:ID="s97">
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s98">
+   <NumberFormat ss:Format="[$-F800]dddd\,\ mmmm\ dd\,\ yyyy"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Interior/>
+   <NumberFormat ss:Format="0.00_ ;\-0.00\ "/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Interior/>
+   <NumberFormat ss:Format="#,##0.00_ ;\-#,##0.00\ "/>
+  </Style>
+  <Style ss:ID="s104">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Munka9">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="21">
+    <Row>
+    <Cell ss:StyleID="s23" ss:Formula="=TODAY()"><Data ss:Type="DateTime">2022-05-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+	<Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s42" ss:Formula="=R[-5]C[-1]"><Data ss:Type="DateTime">2022-05-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-3]+1"><Data ss:Type="DateTime">2022-05-06T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-5]+2"><Data ss:Type="DateTime">2022-05-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-7]+3"><Data ss:Type="DateTime">2022-05-08T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-9]+4"><Data ss:Type="DateTime">2022-05-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-11]+5"><Data ss:Type="DateTime">2022-05-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-13]+6"><Data ss:Type="DateTime">2022-05-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+	<Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-15]+7"><Data ss:Type="DateTime">2022-05-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+	<Cell ss:StyleID="s42" ss:Formula="=R[-5]C[-17]+8"><Data ss:Type="DateTime">2022-05-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s51" ss:Formula="=WEEKDAY(R[-1]C,2)"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s51"/>
+    <Cell ss:StyleID="s52" ss:Formula="=WEEKDAY(R[-1]C,2)"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s52"/>
+    <Cell ss:StyleID="s53" ss:Formula="=WEEKDAY(R[-1]C,2)"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s53"/>
+    <Cell ss:StyleID="s54"><Data ss:Type="String">=HÉT.NAPJA(H8,2)</Data></Cell>
+    <Cell ss:StyleID="s54"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">=HÉT.NAPJA(J8,2)</Data></Cell>
+    <Cell ss:StyleID="s55"/>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">Lila</Data></Cell>
+    <Cell ss:StyleID="s56"/>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">Narancs</Data></Cell>
+    <Cell ss:StyleID="s57"/>
+	<Cell ss:StyleID="s57"><Data ss:Type="String">Vörös</Data></Cell>
+    <Cell ss:StyleID="s57"/>
+	<Cell ss:StyleID="s57"><Data ss:Type="String">Ezüst</Data></Cell>
+    <Cell ss:StyleID="s57"/>
+	</Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s43"><Data ss:Type="String">Fehér</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s44"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Piros</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">ZÖLD</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:StyleID="s48"><Data ss:Type="String">Lila</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">Narancs</Data></Cell>
+    <Cell ss:StyleID="s50"/>
+	<Cell ss:StyleID="s44"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Piros</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s43"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s44"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:StyleID="s48"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s50"/>
+	<Cell ss:StyleID="s44"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Fekete</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s43"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s44"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:StyleID="s48"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">Kék</Data></Cell>
+    <Cell ss:StyleID="s50"/>
+	<Cell ss:StyleID="s50"><Data ss:Type="String">Kék</Data></Cell>
+	<Cell ss:StyleID="s50"/>
+	<Cell ss:StyleID="s50"><Data ss:Type="String">Kék</Data></Cell>
+	<Cell ss:StyleID="s50"/>
+	</Row>
+    <Row>
+    <Cell ss:Index="2" ss:StyleID="s43"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s44"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:StyleID="s48"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">Sárga</Data></Cell>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">Sárga</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s43"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s44"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:StyleID="s48"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s50"/>
+	<Cell ss:StyleID="s46"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Barna</Data></Cell>
+    <Cell ss:StyleID="s47"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Munka1">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="40" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="19">
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="80.25"/>
+   <Column ss:Index="6" ss:Width="53.25"/>
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="53.25"/>
+   <Column ss:Index="10" ss:Width="53.25"/>
+   <Column ss:Index="12" ss:Width="53.25"/>
+   <Column ss:Index="14" ss:Width="53.25"/>
+   <Column ss:Index="16" ss:Width="53.25"/>
+   <Column ss:Index="18" ss:Width="53.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">Year</Data></Cell>
+    <Cell><Data ss:Type="String">Month</Data></Cell>
+    <Cell><Data ss:Type="String">DAY</Data></Cell>
+    <Cell><Data ss:Type="String">TIME</Data></Cell>
+    <Cell><Data ss:Type="String">DAY  1</Data></Cell>
+    <Cell><Data ss:Type="String">day 01</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 2</Data></Cell>
+    <Cell><Data ss:Type="String">day 02</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 3</Data></Cell>
+    <Cell><Data ss:Type="String">day 03</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 4</Data></Cell>
+    <Cell><Data ss:Type="String">day 04</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 5</Data></Cell>
+    <Cell><Data ss:Type="String">day 05</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 6</Data></Cell>
+    <Cell><Data ss:Type="String">day 06</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 7</Data></Cell>
+    <Cell><Data ss:Type="String">day 07</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Year</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Month</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Day</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 1</Data></Cell>
+    <Cell><Data ss:Type="String">day 01</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 2</Data></Cell>
+    <Cell><Data ss:Type="String">day 02</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 3</Data></Cell>
+    <Cell><Data ss:Type="String">day 03</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 4</Data></Cell>
+    <Cell><Data ss:Type="String">day 04</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 5</Data></Cell>
+    <Cell><Data ss:Type="String">day 05</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 6</Data></Cell>
+    <Cell><Data ss:Type="String">day 06</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 7</Data></Cell>
+    <Cell><Data ss:Type="String">day 07</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s82" ss:Formula="=R[2]C"><Data ss:Type="Number">2022</Data></Cell>
+    <Cell ss:StyleID="s82" ss:Formula="=R[2]C"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s82" ss:Formula="=R[2]C"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s81"
+     ss:Formula="=DATEVALUE(RC[-4]&amp;&quot;-&quot;&amp;RC[-3]&amp;&quot;-&quot;&amp;RC[-2])"><Data
+      ss:Type="DateTime">2022-05-01T00:00:00.000</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data
+      ss:Type="DateTime">2022-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s81"><Data ss:Type="DateTime">1900-01-25T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">1900-01-26T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">1900-01-27T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">1900-01-28T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">1900-01-29T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Make reservations on (year-month-day):</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:Index="6" ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">vasárnap</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">hétfő</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">szerda</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">csütörtök</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">péntek</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">szombat</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">vasárnap</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="Number">2022</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Booking date:</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">booking time</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">book court</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">06:00-06:30</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">book court  </Data></Cell>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s63"
+     ss:Formula="=DATEVALUE(R[-2]C&amp;&quot;-&quot;&amp;R[-2]C[1]&amp;&quot;-&quot;&amp;R[-2]C[2])"><Data
+      ss:Type="DateTime">2022-05-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">12:30-13:00</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">06:30-07:00</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">court 1</Data></Cell>
+    <Cell ss:StyleID="s89" ss:Formula="=R[-1]C[-3]&amp;&quot;  &quot;&amp;R[-1]C[-2]"><Data
+      ss:Type="String">book court  06:00-06:30</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">court 1</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">07:00-07:30</Data></Cell>
+    <Cell ss:StyleID="s89" ss:Formula="=R6C4&amp;&quot; &quot;&amp;R6C5"><Data
+      ss:Type="String">book court 06:00-06:30</Data></Cell>
+    <Cell ss:StyleID="s89" ss:Formula="=R[-1]C[-3]&amp;&quot; &quot;&amp;R[-1]C[-2]"><Data
+      ss:Type="String">court 1 06:30-07:00</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">07:30-08:00</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">08:00-08:30</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">08:30-09:00</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">court 2</Data></Cell>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">09:00-09:30</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">court 1</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">&quot;B6&quot;</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="DateTime">2022-05-02T16:21:00.900</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">09:30-10:00</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s96" ss:Formula="=TODAY()"><Data
+      ss:Type="DateTime">2022-06-23T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">10:00-10:30</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">10:30-11:00</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="DateTime">1900-04-19T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:Index="4"
+     ss:Formula="=SUM(INDEX(R[-12]C[2]:R[25]C[15],0,MATCH(R[-2]C,R[-13]C[2]:R[-13]C[15],0)))"><Data
+      ss:Type="Error">#N/A</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">11:00-11:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">jjj</Data></Cell>
+    <Cell><Data ss:Type="String">kin</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">11:30-12:00</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">court 2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">court 2</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">12:00-12:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">court 2</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">12:30-13:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">13:00-13:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">13:30-14:00</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="DateTime">1900-01-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">14:00-14:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Hello World!</Data></Cell>
+    <Cell><Data ss:Type="String">Hello World!</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">14:30-15:00</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="DateTime">1900-01-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">15:00-15:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">tizenhat</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">15:30-16:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">16:00-16:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">16:30-17:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">17:00-17:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Hello World!</Data></Cell>
+    <Cell><Data ss:Type="String">Hello World!</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">17:30-18:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">18:00-18:30</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String" nullable="true"></Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Hello World!</Data></Cell>
+    <Cell><Data ss:Type="String">Hello World!</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">18:30-19:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">19:00-19:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">19:30-20:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">20:00-20:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">20:30-21:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">21:00-21:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="4" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">21:30-22:00</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">22:00-22:30</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">22:30-23:00</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">23:00-23:30</Data></Cell>
+    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="4" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">23:30-24:00</Data></Cell>
+   </Row>
+   <Row ss:Index="45" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Munka2">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="40" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="19">
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="53.25"/>
+   <Column ss:Width="48.75" ss:Span="1"/>
+   <Column ss:Index="6" ss:Width="53.25"/>
+   <Column ss:Index="8" ss:Width="53.25"/>
+   <Column ss:Index="10" ss:Width="53.25"/>
+   <Column ss:Index="12" ss:Width="53.25"/>
+   <Column ss:Index="14" ss:Width="53.25"/>
+   <Column ss:Index="16" ss:Width="53.25"/>
+   <Column ss:Index="18" ss:Width="53.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">Year</Data></Cell>
+    <Cell><Data ss:Type="String">Month</Data></Cell>
+    <Cell><Data ss:Type="String">DAY</Data></Cell>
+    <Cell><Data ss:Type="String">TIME</Data></Cell>
+    <Cell><Data ss:Type="String">DAY  1</Data></Cell>
+    <Cell><Data ss:Type="String">day 01</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 2</Data></Cell>
+    <Cell><Data ss:Type="String">day 02</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 3</Data></Cell>
+    <Cell><Data ss:Type="String">day 03</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 4</Data></Cell>
+    <Cell><Data ss:Type="String">day 04</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 5</Data></Cell>
+    <Cell><Data ss:Type="String">day 05</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 6</Data></Cell>
+    <Cell><Data ss:Type="String">day 06</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 7</Data></Cell>
+    <Cell><Data ss:Type="String">day 07</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Year</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Month</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Day</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 1</Data></Cell>
+    <Cell><Data ss:Type="String">day 01</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 2</Data></Cell>
+    <Cell><Data ss:Type="String">day 02</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 3</Data></Cell>
+    <Cell><Data ss:Type="String">day 03</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 4</Data></Cell>
+    <Cell><Data ss:Type="String">day 04</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 5</Data></Cell>
+    <Cell><Data ss:Type="String">day 05</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 6</Data></Cell>
+    <Cell><Data ss:Type="String">day 06</Data></Cell>
+    <Cell><Data ss:Type="String">DAY 7</Data></Cell>
+    <Cell><Data ss:Type="String">day 07</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=R[2]C"><Data ss:Type="Number">2022</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=R[2]C"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=R[2]C"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s81"
+     ss:Formula="=DATEVALUE(RC[-4]&amp;&quot;-&quot;&amp;RC[-3]&amp;&quot;-&quot;&amp;RC[-2])"><Data
+      ss:Type="DateTime">2022-05-01T00:00:00.000</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data
+      ss:Type="DateTime">2022-05-02T00:00:00.000</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data
+      ss:Type="DateTime">2022-05-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">2022-05-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">2022-05-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">2022-05-06T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81" ss:Formula="=RC[-2]+1"><Data ss:Type="DateTime">2022-05-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Make reservations on (year-month-day):</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:Index="6" ss:StyleID="s84"
+     ss:Formula="=TEXT(R[-1]C[-4]&amp;&quot;-&quot;&amp;R[-1]C[-3]&amp;&quot;-&quot;&amp;R[-1]C[-2],&quot;nnnn&quot;)"><Data
+      ss:Type="String">vasárnap</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">hétfő</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">kedd</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">szerda</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">csütörtök</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">péntek</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s84" ss:Formula="=TEXT(R[-1]C,&quot;nnnn&quot;)"><Data
+      ss:Type="String">szombat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">2022</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell><Data ss:Type="String">court 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Booking date:</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">booking time</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">book court</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">06:00-06:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s81"
+     ss:Formula="=DATEVALUE(R[-2]C&amp;&quot;-&quot;&amp;R[-2]C[1]&amp;&quot;-&quot;&amp;R[-2]C[2])"><Data
+      ss:Type="DateTime">2022-05-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">12:30-13:00</Data></Cell>
+    <Cell><Data ss:Type="String">court 1</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">06:30-07:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">reserve</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">07:00-07:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">07:30-08:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">08:00-08:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">08:30-09:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">09:00-09:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">09:30-10:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">10:00-10:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">10:30-11:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">11:00-11:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">11:30-12:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">12:00-12:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">12:30-13:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">13:00-13:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">13:30-14:00</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="DateTime">1900-01-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">14:00-14:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">14:30-15:00</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="DateTime">1900-01-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">15:00-15:30</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Complete</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">15:30-16:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">16:00-16:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">16:30-17:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">17:00-17:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">17:30-18:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">18:00-18:30</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s87"><Data ss:Type="String">18:30-19:00</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  </Worksheet> 
+   <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns=""><xsd:element nillable="true" name="Workbook"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Employee" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Salesperson" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Title" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:date" name="Birthday" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:date" name="Hiredate" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Extension" form="unqualified"></xsd:element></xsd:sequence><xsd:attribute name="id" form="unqualified" type="xsd:integer"></xsd:attribute></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="Workbook_megfeleltetés" x2:SchemaID="Schema1"
+   x2:RootElement="Workbook">
+  </x2:Map>
+ </x2:MapInfo>
+</Workbook>

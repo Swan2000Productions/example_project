@@ -1,3 +1,291 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table with database</title>
+<style>
+table {
+border-collapse: collapse;
+width: 100%;
+color: #588c7e;
+font-family: monospace;
+font-size: 25px;
+text-align: left;
+}
+th {
+background-color: #588c7e;
+color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+</style>
+
+<style>
+table, th, td {
+   border: 1px solid black;
+  border-collapse:collapse;
+}
+th, td {
+  padding: 5px;
+}
+</style>
+
+<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Saját%20honlap_elemei/filelist.xml">
+<link rel=Edit-Time-Data href="./Saját%20honlap_elemei/editdata.mso">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.7.7/xlsx.core.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xls/0.7.4-a/xls.core.min.js"></script>
+<script src="xlsx.core.min.js"></script>
+<script src="xls.core.min.js"></script>
+<script  type="text/javascript" src="jquery-3.3.1.js"></script>
+
+
+<style>
+table,th,td {
+  border : 2px solid black;
+  border-collapse: collapse;
+  font: 16px "Lucida Grande", "Helvetica", "Arial", sans-serif;
+}
+
+th, td {
+  border: 1px solid #bbb;
+  padding: 2px 8px 0;
+  text-align: left;
+}
+
+</style>
+</head>
+
+
+
+
+
+<script>
+function getIndex() {
+xmlhttp = createXMLHttp();
+if (xmlhttp)
+{
+xmlhttp.onreadystatechange = check;
+xmlhttp.open('GET', 'tennis_coaching_bookings_2022-05-02_A_makro_ver_CCC_04_ujra_javitott_02_G_03_modified_2028_C.xml');
+xmlhttp.send(null);
+}else{
+alert("XMLHttpRequest失敗");
+}
+}
+function check()
+{
+if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+{
+xmlDoc = xmlhttp.responseXML;
+
+
+
+
+            var xmlDoc = xmlhttp.responseXML.documentElement;
+			var outputResult = document.getElementById("BodyRows_01");
+			var rowData = xmlDoc.getElementsByTagName("Row");
+
+cObj = xmlDoc.getElementsByTagName("Table");
+// cellW = cObj[0].getAttribute("ss:ExpandedColumnCount");
+// cellH = cObj[0].getAttribute("ss:ExpandedRowCount");
+cellW = cObj[0].attributes[0].value;
+cellH = cObj[0].attributes[1].value;
+
+d = xmlDoc.getElementsByTagName("Data");
+result = "<table border='1' bordercolor='black'>";
+
+			addTableRowsFromXmlDoc(rowData,outputResult);
+        }
+
+
+        function addTableRowsFromXmlDoc(xmlNodes,tableNode) {
+            var theTable = tableNode.parentNode;
+			var newRow, newCell, i;
+            console.log ("Number of nodes: " + xmlNodes.length);
+         i=0;
+                newRow = tableNode.insertRow(i);
+                newRow.className = (i%2) ? "OddRow" : "EvenRow";
+				for (j=0; j<xmlNodes[i].childNodes.length; j++) {
+                newCell = newRow.insertCell(newRow.cells.length);
+
+for (h=0; h<cellH; h++)
+{
+result += "<tr>";
+for (w=0; w<cellW; w++)
+{
+n = h * cellW + w;
+
+			if (d[n].childNodes[j]) {
+result += "<td>"+(d[n].childNodes[j]).data + "</td>";
+
+}  else if (d[n].childNodes[j] == false ) {
+                        result += "-";
+}
+
+}
+                    console.log("cell: " + newCell);
+
+result += "</tr>";
+}
+result += "</table>";
+document.getElementById("BodyRows_01").innerHTML = result;
+}
+}
+}
+
+
+// XMLHttpsオブジェクト作成
+function createXMLHttp()
+{
+try {
+return new ActiveXObject ("Microsoft.XMLHTTP");
+}catch(e){
+try {
+return new XMLHttpRequest();
+}catch(e) {
+return null;
+}
+}
+return null;
+}
+// --></script>
+
+<body>
+<div>
+<a  href="javascript:getIndex()">Sports courts bookings table</a>
+</div>
+<nav>
+<a  routerLink="/bookings-table" routerLinkActive="active">Sports courts bookings table</a>
+<template>
+  <input
+    v-if="type === 'submit'"
+    type="submit"
+    class="button"
+    :value="$slots.default[0].text"
+    :class="{'button--inactive': disabled}"
+  />
+  <router-link
+    v-else-if="type === 'button' && href !== undefined"
+    class="button"
+    :class="{'button--inactive': disabled}"
+    :to='<a href="javascript:getIndex()">Sports courts bookings table</a>'
+  >
+    <slot></slot>
+  </router-link>
+ </template>
+
+</nav>
+
+<table id="mainTable" width="100%" height="180%" border="1">
+<thead>
+<tr>
+<th>id</th>
+<th>Year</th>
+<th>Month</th>
+<th>Day</th>
+<th>TIME</th>
+<th>Day1</th>
+<th>day01</th>
+<th>Day2</th>
+<th>day02</th>
+<th>Day3</th>
+<th>day03</th>
+<th>Day4</th>
+<th>day04</th>
+<th>Day5</th>
+<th>day05</th>
+<th>Day6</th>
+<th>day06</th>
+<th>Day7</th>
+<th>day07</th>
+</tr>
+</thead>
+<tbody id="BodyRows_01">
+<tr>
+<td>
+<xsl:value-of select="id"/>
+</td>
+<td>
+<xsl:value-of select="Year"/>
+</td>
+<td>
+<xsl:value-of select="Month"/>
+</td>
+<td>
+<xsl:value-of select="Day"/>
+</td>
+<td>
+<xsl:value-of select="TIME"/>
+</td>
+<td>
+<xsl:value-of select="Day1"/>
+</td>
+<td>
+<xsl:value-of select="day01"/>
+</td>
+<td>
+<xsl:value-of select="Day2"/>
+</td>
+<td>
+<xsl:value-of select="day02"/>
+</td>
+<td>
+<xsl:value-of select="Day3"/>
+</td>
+<td>
+<xsl:value-of select="day03"/>
+</td>
+<td>
+<xsl:value-of select="Day4"/>
+</td>
+<td>
+<xsl:value-of select="day04"/>
+</td>
+<td>
+<xsl:value-of select="Day5"/>
+</td>
+<td>
+<xsl:value-of select="day05"/>
+</td>
+<td>
+<xsl:value-of select="Day6"/>
+</td>
+<td>
+<xsl:value-of select="day06"/>
+</td>
+<td>
+<xsl:value-of select="Day7"/>
+</td>
+<td>
+<xsl:value-of select="day07"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div id="disp"></div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 <!-- * * * * * * * * * * * The content below * * * * * * * * * * * -->
 <!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
@@ -302,28 +590,7 @@
   }
 </style>
 
-<!-- Toolbar -->
-<div class="toolbar" role="banner">
-  <img
-    width="40"
-    alt="Angular Logo"
-    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg=="
-  />
-  <span>Welcome</span>
-    <div class="spacer"></div>
-    <a aria-label="Angular on twitter" target="_blank" rel="noopener" href="https://twitter.com/angular" title="Twitter">
-      <svg id="twitter-logo" height="24" data-name="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-        <rect width="400" height="400" fill="none"/>
-        <path d="M153.62,301.59c94.34,0,145.94-78.16,145.94-145.94,0-2.22,0-4.43-.15-6.63A104.36,104.36,0,0,0,325,122.47a102.38,102.38,0,0,1-29.46,8.07,51.47,51.47,0,0,0,22.55-28.37,102.79,102.79,0,0,1-32.57,12.45,51.34,51.34,0,0,0-87.41,46.78A145.62,145.62,0,0,1,92.4,107.81a51.33,51.33,0,0,0,15.88,68.47A50.91,50.91,0,0,1,85,169.86c0,.21,0,.43,0,.65a51.31,51.31,0,0,0,41.15,50.28,51.21,51.21,0,0,1-23.16.88,51.35,51.35,0,0,0,47.92,35.62,102.92,102.92,0,0,1-63.7,22A104.41,104.41,0,0,1,75,278.55a145.21,145.21,0,0,0,78.62,23" fill="#fff"/>
-      </svg>
-    </a>
-    <a aria-label="Angular on YouTube" target="_blank" rel="noopener" href="https://youtube.com/angular" title="YouTube">
-      <svg id="youtube-logo" height="24" width="24" data-name="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fff">
-        <path d="M0 0h24v24H0V0z" fill="none"/>
-        <path d="M21.58 7.19c-.23-.86-.91-1.54-1.77-1.77C18.25 5 12 5 12 5s-6.25 0-7.81.42c-.86.23-1.54.91-1.77 1.77C2 8.75 2 12 2 12s0 3.25.42 4.81c.23.86.91 1.54 1.77 1.77C5.75 19 12 19 12 19s6.25 0 7.81-.42c.86-.23 1.54-.91 1.77-1.77C22 15.25 22 12 22 12s0-3.25-.42-4.81zM10 15V9l5.2 3-5.2 3z"/>
-      </svg>
-    </a>
-</div>
+
 
 <div class="content" role="main">
 
