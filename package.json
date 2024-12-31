@@ -19,6 +19,7 @@
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
     "@ng-select/ng-select": "^9.0.2",
+    "npm-check-updates": "^17.1.12",
     "npm-check-updates": "^17.1.13",
     "package-lock.json": "^1.0.0",
     "rxjs": "~7.5.0",
