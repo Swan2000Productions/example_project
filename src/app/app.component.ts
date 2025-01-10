@@ -33,9 +33,7 @@ export class AppComponent implements OnDestroy {
     //this.mysecret = speakeasy.generateSecret({length:3});
     //, label: 'MY Secret'
 
-    console.log(this.secretkey);
     const url = speakeasy.otpauthURL({ secret: this.secretkey, label: "DKPaSS"});
-    console.log(url);
     this.drawQr(url);
 
     this.intervalId = setInterval(()=>{

@@ -26,6 +26,9 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            "customWebpack": {
+              "path": "./webpack.config.js"
+            },
             "styles": [
               "src/styles.css"
             ],
@@ -65,7 +68,7 @@
           "defaultConfiguration": "production"
         },
         "serve": {
-          "builder": "@angular-builders/custom-webpack:browser",
+          "builder": "@angular-builders/custom-webpack:dev-server",
           "configurations": {
             "production": {
               "browserTarget": "example_project:build:production"
@@ -79,7 +82,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "example_project:build"
+            "browserTarget": "angular-webpack-custom-sass-rule-example:build"
           }
         },
         "test": {
