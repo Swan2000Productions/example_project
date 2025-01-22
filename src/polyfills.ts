@@ -48,7 +48,6 @@
 import 'zone.js';  // Included with Angular CLI.
 import { Buffer } from 'buffer';
 import * as process from 'process';
-import * as crypto from 'crypto-browserify';
 import 'stream-browserify';
 
 (window as any).global = window;
