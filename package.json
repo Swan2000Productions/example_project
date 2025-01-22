@@ -13,12 +13,14 @@
     "@angular/router": "^13.2.7",
     "@ng-select/ng-select": "^7.4.0",
     "@types/jasmine": "^3.10.18",
+    "@types/node": "^16.4.0",
     "crypto-browserify": "^3.12.1",
     "jasmine-core": "^4.0.1",
     "karma-coverage": "^2.1.1",
     "npm-check-updates": "^17.1.13",
     "package-lock.json": "^1.0.0",
     "qrcode": "^1.5.4",
+    "qrcode.es": "^1.0.0",
     "rxjs": "^7.5.7",
     "speakeasy": "^2.0.0",
     "stream-browserify": "^3.0.0",
@@ -36,6 +38,9 @@
     "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
     "karma-jasmine-html-reporter": "^2.1.0",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "url": "^0.11.4",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2"
   }
 }

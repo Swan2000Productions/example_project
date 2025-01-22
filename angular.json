@@ -26,6 +26,13 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            "allowedCommonJsDependencies": [
+              "qrcode",
+              "speakeasy"
+            ],
+            "customWebpackConfig": {
+              "path": "./extra-webpack.config.js"
+            },
             "styles": [
               "src/styles.css"
             ],
