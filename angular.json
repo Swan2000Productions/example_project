@@ -26,9 +26,6 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "customWebpack": {
-              "path": "./webpack.config.js"
-            },
             "styles": [
               "src/styles.css"
             ],
