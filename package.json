@@ -38,7 +38,7 @@
     "zone.js": "^0.11.8"
   },
   "devDependencies": {
-    "@angular-builders/custom-webpack": "^13.1.0",
+    "@angular-builders/custom-webpack": "^13.0.0",
     "@types/node": "^16.4.0",
     "@types/qrcode": "^1.5.5",
     "@types/speakeasy": "^2.0.10"
