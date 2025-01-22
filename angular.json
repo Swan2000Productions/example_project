@@ -15,7 +15,7 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:browser",
+          "builder": "@angular-builders/custom-webpack:browser",
           "options": {
             "outputPath": "dist/example_project",
             "index": "src/index.html",
@@ -26,10 +26,15 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            "allowedCommonJsDependencies": [
+              "qrcode",
+              "speakeasy"
+            ],
+            "customWebpackConfig": {
+              "path": "./extra-webpack.config.js"
+            },
             "styles": [
-              "src/styles.css",
-			        "src/app/styles.css",
-			        "src/app/style_02.css"
+              "src/styles.css"
             ],
             "scripts": []
           },
@@ -67,7 +72,7 @@
           "defaultConfiguration": "production"
         },
         "serve": {
-          "builder": "@angular-devkit/build-angular:browser",
+          "builder": "@angular-builders/custom-webpack:dev-server",
           "configurations": {
             "production": {
               "browserTarget": "example_project:build:production"
@@ -96,11 +101,7 @@
               "src/assets"
             ],
             "styles": [
-			        "src/styles.css",
-              "src/app/css/styles.css",
-			        "src/assets/css/styles.css",
-			        "src/app/styles.css",
-			        "src/app/style_02.css"
+              "src/styles.css"
             ],
             "scripts": []
           }

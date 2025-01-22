@@ -42,6 +42,15 @@
  *
  */
 
+(window as any).process = { env: { DEBUG: undefined },
+};
+(window as any).global = window;
+(window as any).Buffer = Buffer;
+(window as any).process = process;
+
+// Add a polyfill for crypto
+(window as any).crypto = crypto;
+
 /***************************************************************************************************
  * Zone JS is required by default for Angular itself.
  */
@@ -51,12 +60,12 @@ import * as process from 'process';
 import * as crypto from 'crypto-browserify';
 import 'stream-browserify';
 
-(window as any).global = window;
-(window as any).Buffer = Buffer;
-(window as any).process = process;
-
-// Add a polyfill for crypto
-(window as any).crypto = crypto;
+// Other common polyfills (if necessary, e.g., for fetch, promise, etc.)
+import 'core-js/features/promise';
+import 'core-js/features/array/find';
+import 'core-js/features/array/includes';
+import 'core-js/features/set';
+import 'core-js/features/map';
 
 /***************************************************************************************************
  * APPLICATION IMPORTS
