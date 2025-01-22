@@ -1,4 +1,15 @@
 {
+  "name": "example_project",
+  "version": "1.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
   "dependencies": {
     "@angular-devkit/architect": "^0.13.2",
     "@angular-devkit/build-angular": "^13.3.11",
@@ -15,7 +26,6 @@
     "@angular/router": "^13.2.7",
     "@ng-select/ng-select": "^9.0.0",
     "buffer": "^6.0.3",
-    "crypto-browserify": "^3.12.1",
     "jasmine-core": "^4.0.1",
     "karma-coverage": "^2.1.1",
     "npm-check-updates": "^17.1.13",
@@ -23,8 +33,6 @@
     "process": "^0.11.10",
     "qrcode": "^1.5.4",
     "rxjs": "^7.8.1",
-    "speakeasy": "^2.0.0",
-    "stream-browserify": "^3.0.0",
     "tslib": "^2.8.1",
     "typescript": "^4.5.5",
     "url": "^0.11.4",
@@ -38,10 +46,13 @@
     "@types/node": "^16.4.0",
     "@types/qrcode": "^1.5.5",
     "@types/speakeasy": "^2.0.10",
+    "crypto-browserify": "^3.12.1",
     "jasmine": "^5.5.0",
     "karma": "^6.4.4",
     "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
-    "karma-jasmine-html-reporter": "^2.1.0"
+    "karma-jasmine-html-reporter": "^2.1.0",
+    "speakeasy": "^2.0.0",
+    "stream-browserify": "^3.0.0"
   }
 }
