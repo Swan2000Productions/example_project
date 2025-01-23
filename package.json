@@ -10,7 +10,21 @@
     "e2e": "ng e2e"
   },
   "private": true,
+  "name": "example_project",
+  "version": "1.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
   "dependencies": {
+    "@angular-devkit/architect": "^0.13.2",
+    "@angular-devkit/build-angular": "^13.3.11",
+    "@angular-devkit/core": "^13.2.6",
     "@angular-devkit/architect": "^0.13.2",
     "@angular-devkit/build-angular": "^13.3.11",
     "@angular-devkit/core": "^13.2.6",
@@ -24,17 +38,33 @@
     "@angular/platform-browser": "^13.2.7",
     "@angular/platform-browser-dynamic": "^13.2.7",
     "@angular/router": "^13.2.7",
+<<<<<<< HEAD
     "@ng-select/ng-select": "^9.0.0",
     "buffer": "^6.0.3",
+=======
+    "@ng-select/ng-select": "^9.0.0",
+    "buffer": "^6.0.3",
+>>>>>>> 29705fb34b27ab922c8cf59bf4c388977572d3df
     "jasmine-core": "^4.0.1",
     "karma-coverage": "^2.1.1",
     "npm-check-updates": "^17.1.13",
     "package-lock.json": "^1.0.0",
+<<<<<<< HEAD
+    "qrcode": "^1.5.4",
+    "qrcode.es": "^1.0.0",
+    "rxjs": "^7.5.7",
+    "speakeasy": "^2.0.0",
+    "stream-browserify": "^3.0.0",
+=======
     "process": "^0.11.10",
     "qrcode": "^1.5.4",
     "rxjs": "^7.8.1",
+>>>>>>> 29705fb34b27ab922c8cf59bf4c388977572d3df
     "tslib": "^2.8.1",
     "typescript": "^4.5.5",
+    "url": "^0.11.4",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2",
     "url": "^0.11.4",
     "util": "^0.12.5",
     "vm-browserify": "^1.1.2",
@@ -42,17 +72,30 @@
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "^13.0.0",
+<<<<<<< HEAD
+    "@types/qrcode": "^1.5.5",
+    "@types/speakeasy": "^2.0.10",
+    "buffer": "^6.0.3",
+=======
     "@types/jasmine": "^5.1.5",
     "@types/node": "^16.4.0",
     "@types/qrcode": "^1.5.5",
     "@types/speakeasy": "^2.0.10",
     "crypto-browserify": "^3.12.1",
+>>>>>>> 29705fb34b27ab922c8cf59bf4c388977572d3df
     "jasmine": "^5.5.0",
     "karma": "^6.4.4",
     "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
     "karma-jasmine-html-reporter": "^2.1.0",
+<<<<<<< HEAD
+    "process": "^0.11.10",
+    "url": "^0.11.4",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2"
+=======
     "speakeasy": "^2.0.0",
     "stream-browserify": "^3.0.0"
+>>>>>>> 29705fb34b27ab922c8cf59bf4c388977572d3df
   }
 }
