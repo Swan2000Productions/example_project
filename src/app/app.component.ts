@@ -65,6 +65,3 @@ export class AppComponent implements OnDestroy {
   console.log(this.status);
   }
 }
-
-
-
