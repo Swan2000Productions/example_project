@@ -9,13 +9,12 @@ import * as QRCode from 'qrcode';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnDestroy {
-  selection = { value: '' };
   title = 'example_project';
   name = '';
   name2 = "";
   secretkey = '';
   status = false;
-  @ViewChild('imgContainer', { static: false }) imgContainer?: ElementRef;
+  @ViewChild('imgContainer') imgContainer!: ElementRef;
   private intervalId: any;
 
   constructor(private renderer: Renderer2) {}
@@ -28,22 +27,17 @@ export class AppComponent implements OnDestroy {
   }
 
   ngOnInit(){
-    console.log('AppComponent initialized');
-
     const secret = speakeasy.generateSecret();
     this.secretkey = secret.ascii;
 
     //this.mysecret = speakeasy.generateSecret({length:3});
     //, label: 'MY Secret'
 
-    console.log(`Generated Secret: ${this.secretkey}`);
     const url = speakeasy.otpauthURL({ secret: this.secretkey, label: "DKPaSS"});
-    console.log(`Generated OTP URL: ${url}`);
     this.drawQr(url);
 
     this.intervalId = setInterval(()=>{
       this.name2 = this.getCode();
-      console.log(`Generated Code: ${this.name2}`);
     },1000);
   }
 
@@ -60,9 +54,7 @@ export class AppComponent implements OnDestroy {
       // Example:
       const img = this.renderer.createElement('img');
       this.renderer.setAttribute(img, 'src', data_url);
-      if (this.imgContainer?.nativeElement) {
       this.renderer.appendChild(this.imgContainer.nativeElement, img);
-      }
     }).catch((err: any) => console.error('Error generating QR Code:', err));
   }
 
@@ -73,3 +65,6 @@ export class AppComponent implements OnDestroy {
   console.log(this.status);
   }
 }
+
+
+
